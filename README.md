@@ -375,19 +375,30 @@ GROUP BY DATE(paid_at);
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Issac-Arun-V&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+src="https://github-readme-stats.vercel.app/api?username=Issac-Arun-V&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+
+&nbsp;&nbsp;
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Issac-Arun-V&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Issac-Arun-V&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Issac-Arun-V&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Issac-Arun-V&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
-
 ---
 
 ## 🎓 Education
