@@ -11,9 +11,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Issac_Arun-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/issac-arun-ba5071295)
 [![Email](https://img.shields.io/badge/Gmail-issacarunjesus@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:issacarunjesus@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+91_9361280684-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919361280684)
-[![Resume](https://img.shields.io/badge/📄_Download_Resume-4CAF50?style=for-the-badge)](./Issac_Arun_Resume.pdf)
+[![Resume](https://img.shields.io/badge/📄_View_My_Resume-4CAF50?style=for-the-badge&logoColor=white)](https://drive.google.com/drive/folders/1FYAY76yogsdKl1ygYxGzXXwZmXR1dLAA?usp=sharing)
 
-![Profile Views](https://komarev.com/ghpvc/?username=issacarun&color=6C63FF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6C63FF&style=for-the-badge&label=Profile+Views)
 
 </div>
 
@@ -26,7 +26,8 @@ class IssacArun:
 
     name       = "Issac Arun V"
     location   = "Tuticorin → Chennai, Tamil Nadu 🇮🇳"
-    education  = "BE ECE — PSN Institute (Anna University) | GPA: 7.86"
+    education  = "BE ECE — PSN Institute (Anna University)"
+    gpa        = 7.86
     grad_year  = 2026
     open_to    = "Relocate Anywhere ✈️"
 
@@ -39,15 +40,30 @@ class IssacArun:
     ]
 
     current_focus = {
-        "🐍 Python":     "Rapidly growing — Full-Stack Development",
-        "🗄️  SQL":       "Strong foundation — MySQL, queries, schemas",
-        "🌐 Frontend":   "HTML, CSS, JavaScript — actively learning",
-        "🛡️  Security":  "Ethical Hacking, Penetration Testing, CCNA",
-        "🔧 Tools":      "Wireshark, Kali Linux, Nmap, Metasploit",
+        "🐍 Python":    "Rapidly growing — Full-Stack",
+        "🗄️  SQL":      "Strong — MySQL, queries, schemas",
+        "🌐 Frontend":  "HTML, CSS, JS — actively learning",
+        "🛡️  Security": "Ethical Hacking, CCNA, Pen Testing",
     }
 
     motto = "Build. Secure. Scale. 🚀"
 ```
+
+---
+
+## 📄 Resume
+
+<div align="center">
+
+### 👇 Click to View / Download My Resume
+
+[![Resume](https://img.shields.io/badge/📄_NETWORK_ENGINEER_RESUME-View_on_Google_Drive-1BA0D7?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1FYAY76yogsdKl1ygYxGzXXwZmXR1dLAA?usp=sharing)
+
+[![Resume](https://img.shields.io/badge/📄_CYBERSECURITY_RESUME-View_on_Google_Drive-FF4757?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1FYAY76yogsdKl1ygYxGzXXwZmXR1dLAA?usp=sharing)
+
+> 📁 Both resumes available in the Google Drive folder above
+
+</div>
 
 ---
 
@@ -57,19 +73,15 @@ class IssacArun:
 ╔══════════════════════════════════════════════════════╗
 ║           🚀 CURRENT STACK PROGRESS                 ║
 ╠══════════════════════════════════════════════════════╣
-║  🐍 Python          ████████████████████  Rapid ↑   ║
-║  🗄️  SQL / MySQL    ████████████████████  Strong ✅  ║
-║  🌐 HTML            ████████████████░░░░  Learning   ║
-║  🎨 CSS             ███████████████░░░░░  Learning   ║
-║  ⚡ JavaScript      ████████████░░░░░░░░  Learning   ║
-║  🛡️  Cybersecurity  ████████████████████  Core ✅    ║
-║  🌐 Networking      ████████████████████  CCNA ✅    ║
+║  🐍 Python        ████████████████████  Rapid ↑     ║
+║  🗄️  SQL/MySQL    ████████████████████  Strong ✅   ║
+║  🌐 HTML          ████████████████░░░░  Learning     ║
+║  🎨 CSS           ███████████████░░░░░  Learning     ║
+║  ⚡ JavaScript    ████████████░░░░░░░░  Learning     ║
+║  🛡️  Security     ████████████████████  Core ✅      ║
+║  🌐 Networking    ████████████████████  CCNA ✅      ║
 ╚══════════════════════════════════════════════════════╝
 ```
-
-> 🎯 Combining **Full-Stack Python Development** with
-> **Cybersecurity** expertise to build secure,
-> production-grade applications from scratch.
 
 ---
 
@@ -100,7 +112,7 @@ class IssacArun:
 ![Nessus](https://img.shields.io/badge/Nessus-00B388?style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
-![IDS/IPS](https://img.shields.io/badge/IDS/IPS-FF4757?style=for-the-badge)
+![Firewalls](https://img.shields.io/badge/Next--Gen_Firewalls-FF4757?style=for-the-badge)
 
 ---
 
@@ -119,12 +131,12 @@ class IssacArun:
   │
   ├── 🔐 Cybersecurity Intern
   │       Codmetric (ISO 9001:2015) | Jun–Aug 2025
-  │       Python Security Tools | Port Scanner
+  │       Python Security Tools | Port Scanner | CLI
   │
-  └── 🐍 Python Full-Stack Internship  ← NOW
+  └── 🐍 Python Full-Stack Internship  ← CURRENT 🔥
           Besant Technologies, Anna Nagar
-          Jan 2026 – Present | Chennai
-          Python + SQL + HTML + CSS + JS
+          Jan 2026 – Present | Chennai, Tamil Nadu
+          Python + SQL + HTML + CSS + JavaScript
 ```
 
 ---
@@ -135,7 +147,7 @@ class IssacArun:
 <tr>
 <td width="50%">
 
-### 🐍 Python Full-Stack Developer Intern ⚡ CURRENT
+### 🐍 Python Full-Stack Intern 🔥 CURRENT
 **Besant Technologies**
 📍 Anna Nagar, Chennai, Tamil Nadu
 📅 Jan 2026 – Present *(4 months)*
@@ -143,17 +155,13 @@ class IssacArun:
 ```
 ✅ Python full-stack development
 ✅ SQL — strong database skills
-✅ HTML, CSS, JavaScript (frontend)
+✅ HTML + CSS + JavaScript
 ✅ Web application architecture
-✅ Frontend + Backend integration
+✅ Frontend & Backend concepts
 ✅ Practice projects from scratch
 ✅ Building foundation for
-   secure full-stack applications
+   secure full-stack apps
 ```
-
-> *"SQL is strong. Python is rapidly
-> growing. HTML/JS/CSS actively
-> in progress."* — Issac Arun
 
 </td>
 <td width="50%">
@@ -169,7 +177,6 @@ class IssacArun:
 ✅ Password strength checker
 ✅ Caesar cipher & Base64
 ✅ Vulnerability analysis
-✅ Cryptography concepts
 ```
 
 ### 🛡️ Cyber Security Intern
@@ -180,7 +187,6 @@ class IssacArun:
 ✅ Ethical hacking masterclass
 ✅ Penetration testing basics
 ✅ Incident response scenarios
-✅ Network security concepts
 ```
 
 </td>
@@ -193,11 +199,11 @@ class IssacArun:
 📍 Tirunelveli | 📅 Jul 2023 – Present
 
 ```
-✅ Campus IT infrastructure (3+ yrs)
+✅ Campus IT infrastructure
 ✅ PC assembly & configuration
-✅ Ethernet setup & troubleshooting
-✅ Network uptime maintenance
-✅ Academic & admin support
+✅ Ethernet setup
+✅ Network troubleshooting
+✅ 3+ years experience
 ```
 
 </td>
@@ -226,39 +232,30 @@ class IssacArun:
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="100%">
-
 ### 🛒 NexCart Pro — Full-Stack E-Commerce Platform
-> Production-grade desktop e-commerce app — Python + MySQL + Tkinter
+> Production-grade desktop e-commerce platform — Python + MySQL
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)](https://github.com/issacarun/NexCart-Pro)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)](https://github.com/issacarun/NexCart-Pro)
-[![Tkinter](https://img.shields.io/badge/Tkinter-GUI-43E97B?style=flat-square)](https://github.com/issacarun/NexCart-Pro)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-Charts-FF6584?style=flat-square)](https://github.com/issacarun/NexCart-Pro)
-[![bcrypt](https://img.shields.io/badge/bcrypt-Auth-6C63FF?style=flat-square)](https://github.com/issacarun/NexCart-Pro)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)](https://github.com/YOUR_GITHUB_USERNAME/NexCart-Pro)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)](https://github.com/YOUR_GITHUB_USERNAME/NexCart-Pro)
+[![Tkinter](https://img.shields.io/badge/Tkinter_GUI-43E97B?style=flat-square)](https://github.com/YOUR_GITHUB_USERNAME/NexCart-Pro)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Charts-FF6584?style=flat-square)](https://github.com/YOUR_GITHUB_USERNAME/NexCart-Pro)
+[![bcrypt](https://img.shields.io/badge/bcrypt-Auth-6C63FF?style=flat-square)](https://github.com/YOUR_GITHUB_USERNAME/NexCart-Pro)
 
 ```
-🛍️  Live shopping cart with real-time quantity updates
+🛍️  Live shopping cart with real-time updates
 💳  Payment gateway — Card / UPI / Net Banking / COD
 📦  Order tracking with step-by-step status timeline
 📊  Admin analytics — Revenue charts, KPI dashboard
 👥  User management — Role-based access control
-🗄️  MySQL — Connection pooling, transactions, triggers
+🗄️  MySQL — Connection pooling, stored procedures,
+              triggers, views, transactions
 🔐  bcrypt password hashing + session management
-🎨  Dark theme professional UI (pure Tkinter)
+🎨  Professional dark theme UI (pure Tkinter)
 ```
 
-**This project demonstrates:**
-`Python OOP` `MySQL` `GUI Development` `Data Analytics`
-`Authentication` `MVC Architecture` `Threading` `SQL Queries`
+**[⭐ View Repository →](https://github.com/YOUR_GITHUB_USERNAME/NexCart-Pro)**
 
-**[⭐ View Repository](https://github.com/issacarun/NexCart-Pro)**
-
-</td>
-</tr>
-</table>
+---
 
 <table>
 <tr>
@@ -267,26 +264,22 @@ class IssacArun:
 ### 🔍 Network Monitoring System
 > Real campus intrusion detection
 
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square)](https://github.com/issacarun)
-[![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square)](https://github.com/issacarun)
-
 ```
 📡 Live traffic monitoring
-🚨 Intrusion detection alerts
+🚨 Intrusion detection
 🔍 Automated vuln scanning
-📊 Custom protocol analysis
+📊 Protocol analysis
 🏫 Real campus deployment
 ```
 📅 Nov 2024 – Feb 2025
+
+**[View Repo →](https://github.com/YOUR_GITHUB_USERNAME)**
 
 </td>
 <td width="50%">
 
 ### 🔐 Python Security Toolkit
 > CLI ethical hacking tools
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)](https://github.com/issacarun)
-[![Socket](https://img.shields.io/badge/Socket-Programming-6C63FF?style=flat-square)](https://github.com/issacarun)
 
 ```
 🔍 Port Scanner (CLI-based)
@@ -297,32 +290,46 @@ class IssacArun:
 ```
 📅 Jun – Aug 2025
 
+**[View Repo →](https://github.com/YOUR_GITHUB_USERNAME)**
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 📊 SQL Skills Highlight
+## 📊 SQL Strength — Sample from NexCart Pro
 
 ```sql
--- Strong SQL Foundation ✅
-SELECT skill, level FROM issac_skills
-WHERE category = 'SQL'
-ORDER BY proficiency DESC;
+-- Real SQL from NexCart Pro project ✅
 
--- Result:
--- ┌────────────────────────────┬──────────────┐
--- │ Skill                      │ Level        │
--- ├────────────────────────────┼──────────────┤
--- │ MySQL Database Design      │ Strong ✅    │
--- │ Complex JOIN Queries        │ Strong ✅    │
--- │ Stored Procedures           │ Strong ✅    │
--- │ Triggers & Views            │ Strong ✅    │
--- │ Connection Pooling          │ Strong ✅    │
--- │ Transactions & Rollback     │ Strong ✅    │
--- │ Indexing & Performance      │ Growing ↑   │
--- └────────────────────────────┴──────────────┘
+-- Stored Procedure: Process Checkout
+CREATE PROCEDURE sp_process_checkout(
+    IN  p_user_id        INT,
+    IN  p_coupon_code    VARCHAR(30),
+    IN  p_payment_method VARCHAR(20),
+    OUT p_order_id       INT,
+    OUT p_transaction_id VARCHAR(100)
+)
+
+-- Trigger: Auto deduct stock on order
+CREATE TRIGGER trg_deduct_stock
+AFTER INSERT ON order_items
+FOR EACH ROW
+BEGIN
+    UPDATE products
+    SET stock_qty = stock_qty - NEW.qty
+    WHERE id = NEW.product_id;
+END
+
+-- Analytics View: Daily Revenue
+CREATE VIEW vw_daily_sales AS
+SELECT DATE(paid_at) AS day,
+       COUNT(*) AS orders,
+       SUM(amount) AS revenue
+FROM payments
+WHERE status = 'success'
+GROUP BY DATE(paid_at);
 ```
 
 ---
@@ -350,17 +357,15 @@ ORDER BY proficiency DESC;
 ```
 🌟  Recognized by HR Manager Meenakshi Pawar
     "I reviewed your application and am impressed
-     with your background." — Direct HR appreciation
+     with your background." — Direct HR Appreciation
 
 🌐  Built Personal Portfolio Website (Lovable.app)
-    Online visibility with certifications & projects
-
-🤖  Developed Custom AI Assistant Agent
-    Automated LinkedIn content & workflow tasks
 
 🛒  Built NexCart Pro — Production E-Commerce Platform
-    Full-stack Python + MySQL desktop application
-    with complete admin analytics dashboard
+    Full-stack Python + MySQL + complete admin analytics
+
+🤖  Developed Custom AI Assistant Agent (AAAgent)
+    Automated LinkedIn content & workflow tasks
 ```
 
 ---
@@ -369,11 +374,17 @@ ORDER BY proficiency DESC;
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=issacarun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=issacarun&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=issacarun&theme=tokyonight&hide_border=true)
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -383,8 +394,8 @@ ORDER BY proficiency DESC;
 
 | Degree | Institution | Period | GPA |
 |--------|------------|--------|-----|
-| 🎓 BE Electronics & Communication Engineering | PSN Institute — Anna University, Tamil Nadu | Nov 2022 – Nov 2026 | **7.86** |
-| 📚 Ethical Hacking Certification Course | NPTEL — IIT Kharagpur | Jul – Nov 2025 | 6.0 |
+| 🎓 BE Electronics & Communication Engineering | PSN Institute — Anna University | Nov 2022 – Nov 2026 | **7.86** |
+| 📚 Ethical Hacking Certification | NPTEL — IIT Kharagpur | Jul – Nov 2025 | 6.0 |
 
 ---
 
@@ -398,27 +409,26 @@ ORDER BY proficiency DESC;
 2024 → CCNA Certification Started
 2025 → Codmetric Cybersecurity Internship
 2025 → Python Security Toolkit Built
-2025 → Ethical Hacking Project Completed
 2025 → 10+ Cybersecurity Certifications
-2026 → Besant Technologies — Python Full-Stack  ← NOW
-2026 → NexCart Pro — E-Commerce Platform Built
+2026 → Besant Technologies Python Full-Stack ← NOW🔥
+2026 → NexCart Pro E-Commerce Platform Built
 2026 → BE Graduation (Expected Nov 2026)
 ```
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
 <div align="center">
 
-| | |
-|--|--|
+| Platform | Details |
+|----------|---------|
 | 📧 **Email** | issacarunjesus@gmail.com |
 | 📱 **Phone** | +91 9361280684 |
 | 💼 **LinkedIn** | [issac-arun-ba5071295](https://linkedin.com/in/issac-arun-ba5071295) |
+| 📄 **Resume** | [View on Google Drive](https://drive.google.com/drive/folders/1FYAY76yogsdKl1ygYxGzXXwZmXR1dLAA?usp=sharing) |
 | 📍 **Location** | Tuticorin / Chennai, Tamil Nadu |
-| ✈️ **Availability** | Open to Relocate Anywhere |
-| 📄 **Resume** | [Download PDF](./Issac_Arun_Resume.pdf) |
+| ✈️ **Open To** | Relocate Anywhere |
 
 </div>
 
@@ -429,10 +439,10 @@ ORDER BY proficiency DESC;
 ### 💬 What Drives Me
 
 > *"I don't just learn security — I build secure things.*
-> *I don't just write code — I build solutions.*
-> *Network Engineer by training. Developer by passion.*
+> *I don't just write code — I write solutions.*
+> *Network Engineer by training.*
+> *Developer by passion.*
 > *Cybersecurity professional by purpose."*
-> — Issac Arun V
 
 ---
 
