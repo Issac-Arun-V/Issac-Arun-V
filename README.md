@@ -13,8 +13,6 @@
 [![Phone](https://img.shields.io/badge/Phone-+91_9361280684-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919361280684)
 [![Resume](https://img.shields.io/badge/📄_View_My_Resume-4CAF50?style=for-the-badge&logoColor=white)](https://drive.google.com/drive/folders/1FYAY76yogsdKl1ygYxGzXXwZmXR1dLAA?usp=sharing)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6C63FF&style=for-the-badge&label=Profile+Views)
-
 </div>
 
 ---
