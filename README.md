@@ -375,16 +375,16 @@ GROUP BY DATE(paid_at);
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+src="https://github.com/Issac-Arun-V/Issac-Arun-V//api?username=Issac-Arun-V&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+src="https://github.com/Issac-Arun-V/Issac-Arun-V//api/top-langs/?username=Issac-Arun-V&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github.com/Issac-Arun-V/Issac-Arun-V//graph?username=Issac-Arun-V&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
