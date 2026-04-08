@@ -393,7 +393,7 @@ GROUP BY DATE(paid_at);
 
 | Degree | Institution | Period | GPA |
 |--------|------------|--------|-----|
-| 🎓 BE Electronics & Communication Engineering | PSN Institute — Anna University | Nov 2022 – Nov 2026 | **7.86** |
+| 🎓 BE Electronics & Communication Engineering | PSN Institute — Anna University | Nov 2022 – Nov 2026 | **7.9** |
 | 📚 Ethical Hacking Certification | NPTEL — IIT Kharagpur | Jul – Nov 2025 | 6.0 |
 
 ---
