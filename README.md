@@ -1,432 +1,320 @@
 <div align="center">
-
 # 👋 Hi, I'm Issac Arun V
-
-### 🛡️ Cybersecurity Engineer | 🌐 Network Engineer | 🐍 Python Full-Stack Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Cybersecurity+%26+Network+Engineer;Python+Full-Stack+Developer;CCNA+Certified+%7C+ECE+Student;SQL+%7C+Python+%7C+HTML+%7C+JS+%7C+CSS;Always+Learning+%7C+Always+Building+🚀" alt="Typing SVG" />
-
+ 
+### 🌐 L1 Support Engineer | Network Engineer (CCNA) | Linux (RHEL) | AWS Cloud
+ 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=L1+Support+%7C+Network+%2B+Linux+Engineer;CCNA+Trained+%7C+RHEL+Linux+Administration;AWS+Cloud+Practitioner+(In+Progress);Next+Stop%3A+DevOps+%F0%9F%9A%80;Immediate+Joiner+%7C+24x7+Ready" alt="Typing SVG" />
 <br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Issac_Arun-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/issac-arun-ba5071295)
-[![Email](https://img.shields.io/badge/Gmail-issacarunjesus@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:issacarunjesus@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-issacarun.v@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:issacarun.v@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+91_9361280684-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919361280684)
 [![Resume](https://img.shields.io/badge/📄_View_My_Resume-4CAF50?style=for-the-badge&logoColor=white)](https://drive.google.com/drive/folders/1FYAY76yogsdKl1ygYxGzXXwZmXR1dLAA?usp=sharing)
-
+[![Status](https://img.shields.io/badge/Status-Immediate_Joiner-FF4757?style=for-the-badge)](#)
+ 
 </div>
-
 ---
-
+ 
 ## 🧠 About Me
-
+ 
 ```python
 class IssacArun:
-
-    name       = "Issac Arun V"
-    location   = "Tuticorin → Chennai, Tamil Nadu 🇮🇳"
-    education  = "BE ECE — PSN Institute (Anna University)"
-    gpa        = 7.86
-    grad_year  = 2026
-    open_to    = "Relocate Anywhere ✈️"
-
-    roles = [
-        "Cybersecurity Engineer",
-        "Network Engineer",
-        "Python Full-Stack Developer",
-        "SOC Analyst",
-        "IT Support Engineer",
+ 
+    name        = "Issac Arun V"
+    title       = "L1 Support Engineer"
+    location    = "Tuticorin → Chennai, Tamil Nadu 🇮🇳"
+    education   = "BE ECE — PSN Institute (Anna University)"
+    cgpa        = 7.9
+    grad_year   = 2026
+    availability = "Immediate Joiner"
+    open_to     = "Relocate Anywhere ✈️ | 24x7 Shift Ready"
+ 
+    core_stack = [
+        "Networking (CCNA-level)",
+        "RHEL Linux Administration",
+        "AWS Cloud (EC2, in progress)",
+        "L1 / Desktop / IT Support",
     ]
-
-    current_focus = {
-        "🐍 Python":    "Rapidly growing — Full-Stack",
-        "🗄️  SQL":      "Strong — MySQL, queries, schemas",
-        "🌐 Frontend":  "HTML, CSS, JS — actively learning",
-        "🛡️  Security": "Ethical Hacking, CCNA, Pen Testing",
-    }
-
-    motto = "Build. Secure. Scale. 🚀"
+ 
+    next_up = "DevOps Engineering 🚀"
+ 
+    summary = (
+        "ECE fresher with hands-on CCNA-level networking and "
+        "RHEL Linux administration skills. Comfortable with "
+        "desktop hardware support, LAN troubleshooting, and "
+        "connectivity issue resolution. Ready to handle "
+        "first-level network/system support, user account "
+        "management, and IT issue diagnosis from day one."
+    )
+ 
+    motto = "Troubleshoot. Administer. Scale to the Cloud. 🚀"
 ```
-
+ 
 ---
-
+ 
 ## 📄 Resume
-
+ 
 <div align="center">
-
-### 👇 Click to View / Download My Resume
-
-[![Resume](https://img.shields.io/badge/📄_NETWORK_ENGINEER_RESUME-View_on_Google_Drive-1BA0D7?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1FYAY76yogsdKl1ygYxGzXXwZmXR1dLAA?usp=sharing)
-
-[![Resume](https://img.shields.io/badge/📄_CYBERSECURITY_RESUME-View_on_Google_Drive-FF4757?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1FYAY76yogsdKl1ygYxGzXXwZmXR1dLAA?usp=sharing)
-
-> 📁 Both resumes available in the Google Drive folder above
-
+[![Resume](https://img.shields.io/badge/📄_L1_SUPPORT_ENGINEER_RESUME-View_on_Google_Drive-1BA0D7?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1FYAY76yogsdKl1ygYxGzXXwZmXR1dLAA?usp=sharing)
+ 
+> 📁 Resume, certificates & project files available in the Google Drive folder above
+ 
 </div>
-
 ---
-
-## 🔥 Currently Learning & Building
-
+ 
+## 🔥 Skill Progress
+ 
 ```
 ╔══════════════════════════════════════════════════════╗
-║           🚀 CURRENT STACK PROGRESS                 ║
+║           🚀 CURRENT STACK PROGRESS                  ║
 ╠══════════════════════════════════════════════════════╣
-║  🐍 Python        ████████████████████  Rapid ↑     ║
-║  🗄️  SQL/MySQL    ████████████████████  Strong ✅   ║
-║  🌐 HTML          ████████████████░░░░  Learning     ║
-║  🎨 CSS           ███████████████░░░░░  Learning     ║
-║  ⚡ JavaScript    ████████████░░░░░░░░  Learning     ║
-║  🛡️  Security     ████████████████████  Core ✅      ║
-║  🌐 Networking    ████████████████████  CCNA ✅      ║
+║  🌐 Networking (CCNA)   ████████████████████  Strong ✅ ║
+║  🐧 Linux (RHEL)        ████████████████████  Strong ✅ ║
+║  ☁️  AWS Cloud           ███████████████░░░░░  In Progress 🔄 ║
+║  🎧 L1 / Desktop Support ████████████████████  Strong ✅ ║
+║  🛡️  Security Tools      ██████████████░░░░░░  Solid ✅ ║
+║  ⚙️  DevOps              ██████░░░░░░░░░░░░░░  Next Up 🔜 ║
 ╚══════════════════════════════════════════════════════╝
 ```
-
+ 
 ---
-
+ 
 ## 🛠️ Full Tech Stack
-
-### 🐍 Python & Full-Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tkinter](https://img.shields.io/badge/Tkinter_GUI-43E97B?style=for-the-badge)
-![Socket](https://img.shields.io/badge/Socket_Programming-6C63FF?style=for-the-badge)
-
-### 🌐 Networking
-![CCNA](https://img.shields.io/badge/CCNA-Certified-1BA0D7?style=for-the-badge&logo=cisco)
+ 
+### 🌐 Networking & L1 Support
+![CCNA](https://img.shields.io/badge/CCNA-Trained-1BA0D7?style=for-the-badge&logo=cisco)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-003366?style=for-the-badge)
-![VLAN](https://img.shields.io/badge/VLAN-007ACC?style=for-the-badge)
+![Subnetting](https://img.shields.io/badge/IPv4_%26_Subnetting-004080?style=for-the-badge)
+![VLAN](https://img.shields.io/badge/VLAN_%2F_Inter--VLAN-007ACC?style=for-the-badge)
 ![OSPF](https://img.shields.io/badge/OSPF-0052CC?style=for-the-badge)
 ![DNS/DHCP](https://img.shields.io/badge/DNS/DHCP-4B0082?style=for-the-badge)
-![NAT/ACL](https://img.shields.io/badge/NAT/ACL-003399?style=for-the-badge)
-![LAN/WAN](https://img.shields.io/badge/LAN/WAN-16213E?style=for-the-badge)
-
-### 🛡️ Cybersecurity
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![NAT/ACL](https://img.shields.io/badge/NAT_%2F_ACL_%2F_STP-003399?style=for-the-badge)
+![Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4B0082?style=for-the-badge)
-![Nessus](https://img.shields.io/badge/Nessus-00B388?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
-![Firewalls](https://img.shields.io/badge/Next--Gen_Firewalls-FF4757?style=for-the-badge)
-
+ 
+### 🐧 Linux Administration (RHEL)
+![RHEL](https://img.shields.io/badge/RHEL_Linux-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Bash](https://img.shields.io/badge/Linux_CLI_%2F_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH_%2F_SCP-000000?style=for-the-badge&logo=openssh&logoColor=white)
+![LVM](https://img.shields.io/badge/LVM_Storage-1E3A8A?style=for-the-badge)
+![NFS](https://img.shields.io/badge/NFS-004466?style=for-the-badge)
+![Cron](https://img.shields.io/badge/Cron_%2F_At_Jobs-2E7D32?style=for-the-badge)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![chmod](https://img.shields.io/badge/Permissions_%26_SUID%2FSGID-6C63FF?style=for-the-badge)
+ 
+### ☁️ Cloud & DevOps (Growing)
+![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![PuTTY](https://img.shields.io/badge/PuTTY-54504A?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/DevOps-Learning_Next-6C63FF?style=for-the-badge)
+ 
+### 🎧 L1 / IT Support
+![Windows](https://img.shields.io/badge/Windows_Troubleshooting-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory_Basics-00A4EF?style=for-the-badge)
+![Outlook](https://img.shields.io/badge/MS_Office_%2F_Outlook-D83B01?style=for-the-badge&logo=microsoftoutlook&logoColor=white)
+![Ticketing](https://img.shields.io/badge/Ticket_Logging_%26_Escalation-455A64?style=for-the-badge)
+![Remote Support](https://img.shields.io/badge/Remote_Support-455A64?style=for-the-badge)
+ 
+### 🛡️ Security
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-NPTEL_IIT_KGP-FF4757?style=for-the-badge)
+ 
 ---
-
+ 
 ## 💼 Experience Timeline
-
+ 
 ```
 2023 ──────────────────────────────────────────────── 2026
   │
   ├── 📡 Network Technician Volunteer
-  │       PSN Institute | Jul 2023 – Present
-  │       Campus IT Infrastructure | 3+ Years
+  │       PSN Institute of Technology and Science
+  │       Jul 2023 – Jan 2026 | Tirunelveli
+  │       Desktop, LAN & Ethernet Support | 2.5+ Years
   │
-  ├── 🛡️  Cyber Security Internship
-  │       Novitech R&D Pvt Ltd | Oct–Nov 2024
-  │       Ethical Hacking | Penetration Testing
+  ├── 🌐 Network & IT Intern
+  │       Grand Technology (ISO 9001:2015 Certified)
+  │       Jan 2025 – Feb 2025 | Tirunelveli
+  │       Live IT Infra Ops | L1/L2 Escalation Exposure
   │
-  ├── 🔐 Cybersecurity Intern
-  │       Codmetric (ISO 9001:2015) | Jun–Aug 2025
-  │       Python Security Tools | Port Scanner | CLI
+  ├── ☁️  AWS Cloud Practitioner Training  ← IN PROGRESS 🔄
+  │       Besant Technologies, Chennai
+  │       Jun 2026 – Present
   │
-  └── 🐍 Python Full-Stack Internship  ← CURRENT 🔥
-          Besant Technologies, Anna Nagar
-          Jan 2026 – Present | Chennai, Tamil Nadu
-          Python + SQL + HTML + CSS + JavaScript
+  └── ⚙️  DevOps  ← NEXT TARGET 🔜
+          Building on CCNA + RHEL + AWS foundation
 ```
-
+ 
 ---
-
+ 
 ## 🏢 Experience Details
-
+ 
 <table>
 <tr>
 <td width="50%">
-
-### 🐍 Python Full-Stack Intern 🔥 CURRENT
-**Besant Technologies**
-📍 Anna Nagar, Chennai, Tamil Nadu
-📅 Jan 2026 – Present *(4 months)*
-
+### 📡 Network Technician Volunteer
+**PSN Institute of Technology and Science**
+📍 Tirunelveli | 📅 Jul 2023 – Jan 2026
+ 
 ```
-✅ Python full-stack development
-✅ SQL — strong database skills
-✅ HTML + CSS + JavaScript
-✅ Web application architecture
-✅ Frontend & Backend concepts
-✅ Practice projects from scratch
-✅ Building foundation for
-   secure full-stack apps
+✅ Assembled, configured & maintained
+   desktop PCs across departments
+✅ LAN troubleshooting
+✅ Ethernet cabling — RJ-45 T568B crimping
+✅ Resolved basic network connectivity
+   issues for faculty & staff
+✅ First-level fault diagnosis, restored
+   uptime with minimal disruption
+✅ 2.5+ years hands-on hardware & IT
+   support experience
 ```
-
+ 
 </td>
 <td width="50%">
-
-### 🔐 Cybersecurity Intern
-**Codmetric** *(ISO 9001:2015 | MSME)*
-📍 Remote | 📅 Jun – Aug 2025
-
+### 🌐 Network & IT Intern
+**Grand Technology** *(ISO 9001:2015 Certified)*
+📍 Tirunelveli | 📅 Jan 2025 – Feb 2025
+ 
 ```
-✅ Python CLI security tools
-✅ Socket programming
-✅ Port scanner development
-✅ Password strength checker
-✅ Caesar cipher & Base64
-✅ Vulnerability analysis
+✅ Observed & supported live IT
+   infrastructure operations
+✅ Gained exposure to professional
+   support workflows
+✅ Developed understanding of fault
+   identification & ticket handling
+✅ Learned coordination between
+   L1 and higher support levels
 ```
-
-### 🛡️ Cyber Security Intern
-**Novitech R&D Pvt Ltd**
-📍 Coimbatore | 📅 Oct – Nov 2024
-
-```
-✅ Ethical hacking masterclass
-✅ Penetration testing basics
-✅ Incident response scenarios
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌐 Network Technician Volunteer
-**PSN Institute of Technology**
-📍 Tirunelveli | 📅 Jul 2023 – Present
-
-```
-✅ Campus IT infrastructure
-✅ PC assembly & configuration
-✅ Ethernet setup
-✅ Network troubleshooting
-✅ 3+ years experience
-```
-
-</td>
-<td width="50%">
-
-### 💼 Virtual Internships
-**TATA Groups** *(Aug 2024)*
-```
-✅ Threat detection
-✅ SIEM log analysis
-✅ Vulnerability assessment
-```
-
-**ANZ Banking Group** *(Nov 2024)*
-```
-✅ Cybersecurity governance
-✅ Risk assessment
-✅ Compliance management
-```
-
+ 
 </td>
 </tr>
 </table>
-
 ---
-
+ 
 ## 🚀 Featured Projects
-
-### 🛒 NexCart Pro — Full-Stack E-Commerce Platform
-> Production-grade desktop e-commerce platform — Python + MySQL
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)](https://github.com/YOUR_GITHUB_USERNAME/NexCart-Pro)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)](https://github.com/YOUR_GITHUB_USERNAME/NexCart-Pro)
-[![Tkinter](https://img.shields.io/badge/Tkinter_GUI-43E97B?style=flat-square)](https://github.com/YOUR_GITHUB_USERNAME/NexCart-Pro)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-Charts-FF6584?style=flat-square)](https://github.com/YOUR_GITHUB_USERNAME/NexCart-Pro)
-[![bcrypt](https://img.shields.io/badge/bcrypt-Auth-6C63FF?style=flat-square)](https://github.com/YOUR_GITHUB_USERNAME/NexCart-Pro)
-
-```
-🛍️  Live shopping cart with real-time updates
-💳  Payment gateway — Card / UPI / Net Banking / COD
-📦  Order tracking with step-by-step status timeline
-📊  Admin analytics — Revenue charts, KPI dashboard
-👥  User management — Role-based access control
-🗄️  MySQL — Connection pooling, stored procedures,
-              triggers, views, transactions
-🔐  bcrypt password hashing + session management
-🎨  Professional dark theme UI (pure Tkinter)
-```
-
-**[⭐ View Repository →](https://github.com/YOUR_GITHUB_USERNAME/NexCart-Pro)**
-
----
-
+ 
 <table>
 <tr>
 <td width="50%">
-
-### 🔍 Network Monitoring System
-> Real campus intrusion detection
-
+### 🌐 Network Design & Troubleshooting
+> Campus & Hotel multi-site network | Cisco Packet Tracer
+📅 May 2026
+ 
 ```
-📡 Live traffic monitoring
-🚨 Intrusion detection
-🔍 Automated vuln scanning
-📊 Protocol analysis
-🏫 Real campus deployment
+🏗️  Designed & deployed multi-site
+    network — VLANs, OSPF, DHCP, DNS
+🔐  Configured SSH, Wi-Fi, printers,
+    port security
+🚨  Diagnosed & resolved IP conflicts,
+    VLAN mismatches, routing failures
+✅  Validated network health — ping,
+    tracert, OSPF neighbor checks,
+    routing tables, DHCP bindings
 ```
-📅 Nov 2024 – Feb 2025
-
-**[View Repo →](https://github.com/YOUR_GITHUB_USERNAME)**
-
+ 
+**[⭐ View Repository →](https://github.com/YOUR_GITHUB_USERNAME)**
+ 
 </td>
 <td width="50%">
-
-### 🔐 Python Security Toolkit
-> CLI ethical hacking tools
-
+### 🐧 Linux Server Administration Lab
+> RHEL, SSH, NFS, LVM, Cron
+📅 June 2026
+ 
 ```
-🔍 Port Scanner (CLI-based)
-🔑 Password strength checker
-🔒 Caesar cipher tool
-📦 Base64 encoder/decoder
-🌐 Socket security scanning
+👤  Managed user accounts, passwords,
+    file permissions
+🔑  Configured SSH access control
+📊  Process monitoring on RHEL servers
+📁  Configured NFS file sharing
+💾  LVM storage management
+⏱️  Automated maintenance via crontab
 ```
-📅 Jun – Aug 2025
-
-**[View Repo →](https://github.com/YOUR_GITHUB_USERNAME)**
-
+ 
+**[⭐ View Repository →](https://github.com/YOUR_GITHUB_USERNAME)**
+ 
 </td>
 </tr>
 </table>
-
----
-
-## 📊 SQL Strength — Sample from NexCart Pro
-
-```sql
--- Real SQL from NexCart Pro project ✅
-
--- Stored Procedure: Process Checkout
-CREATE PROCEDURE sp_process_checkout(
-    IN  p_user_id        INT,
-    IN  p_coupon_code    VARCHAR(30),
-    IN  p_payment_method VARCHAR(20),
-    OUT p_order_id       INT,
-    OUT p_transaction_id VARCHAR(100)
-)
-
--- Trigger: Auto deduct stock on order
-CREATE TRIGGER trg_deduct_stock
-AFTER INSERT ON order_items
-FOR EACH ROW
-BEGIN
-    UPDATE products
-    SET stock_qty = stock_qty - NEW.qty
-    WHERE id = NEW.product_id;
-END
-
--- Analytics View: Daily Revenue
-CREATE VIEW vw_daily_sales AS
-SELECT DATE(paid_at) AS day,
-       COUNT(*) AS orders,
-       SUM(amount) AS revenue
-FROM payments
-WHERE status = 'success'
-GROUP BY DATE(paid_at);
+<div align="center">
+### 🔍 Network Traffic Analysis
+> Wireshark, Kali Linux
+📅 Nov 2024 – Feb 2025
+ 
 ```
-
----
-
-## 🎓 Certifications
-
-| # | Certification | Issuer | Year |
-|---|--------------|--------|------|
-| 🥇 | **CCNA — Cisco Certified Network Associate** | Besant Technologies | 2026 |
-| 🛡️ | **Certified Ethical Hacking & Pen Testing** | CappricoSec University | 2025 |
-| 🎓 | **Ethical Hacking** | NPTEL – IIT Kharagpur | 2025 |
-| 🔒 | **Network Defense Essentials (NDE)** | EC-Council | 2025 |
-| 🌐 | **Network Technician Career Path** | Cisco Networking Academy | 2024 |
-| 🔥 | **Next-Gen Firewalls & IPS** | LearnQuest | 2025 |
-| 🌍 | **Foundations of Cybersecurity** | Google | 2025 |
-| 🐍 | **Python for Cybersecurity** | INFOSE | 2024 |
-| 📡 | **Hacking WEP/WPA/WPA2 Wi-Fi** | Packt | 2025 |
-| 🤖 | **ChatGPT Prompt Engineering** | Udemy | 2025 |
-| 🏦 | **Advanced Cybersecurity** | Learnkarts | 2024 |
-
----
-
-## 🏆 Achievements
-
+📦  Captured & analyzed live packets to identify
+    traffic anomalies and bottlenecks
+🔬  Investigated TCP/IP protocol issues at packet level
 ```
-🌟  Recognized by HR Manager Meenakshi Pawar
-    "I reviewed your application and am impressed
-     with your background." — Direct HR Appreciation
-
-🌐  Built Personal Portfolio Website (Lovable.app)
-
-🛒  Built NexCart Pro — Production E-Commerce Platform
-    Full-stack Python + MySQL + complete admin analytics
-
-🤖  Developed Custom AI Assistant Agent (AAAgent)
-    Automated LinkedIn content & workflow tasks
-```
-
+ 
+**[View Repo →](https://github.com/YOUR_GITHUB_USERNAME)**
+ 
+</div>
 ---
-
-
+ 
+## 🎓 Certifications & Training
+ 
+| # | Certification / Training | Issuer | Period |
+|---|--------------------------|--------|--------|
+| ☁️ | **AWS Cloud Practitioner Training** | Besant Technologies, Chennai | Jun 2026 – Present |
+| 🌐 | **CCNA Training** | Besant Technologies, Chennai | Feb 2026 – May 2026 |
+| 🐧 | **Linux Administration Training** | Besant Technologies, Chennai | May 2026 – Jun 2026 |
+| 🛡️ | **Ethical Hacking** | NPTEL – IIT Kharagpur | Jul 2025 – Oct 2025 |
+ 
+---
+ 
 ## 🎓 Education
-
-| Degree | Institution | Period | GPA |
-|--------|------------|--------|-----|
-| 🎓 BE Electronics & Communication Engineering | PSN Institute — Anna University | Nov 2022 – Nov 2026 | **7.9** |
-| 📚 Ethical Hacking Certification | NPTEL — IIT Kharagpur | Jul – Nov 2025 | 6.0 |
-
+ 
+| Degree | Institution | Period | CGPA |
+|--------|------------|--------|------|
+| 🎓 BE Electronics & Communication Engineering | PSN Institute of Technology and Science — Anna University | Nov 2022 – May 2026 | **7.9** |
+ 
+**Relevant Coursework:** Computer Networks · Network Security · Digital Signal Processing
+ 
 ---
-
+ 
 ## 🗺️ My Journey
-
+ 
 ```
 2022 → Started BE ECE at PSN Institute
-2023 → Network Technician Volunteer (campus IT)
-2024 → Novitech Cybersecurity Internship
-2024 → Network Monitoring System Project
-2024 → CCNA Certification Started
-2025 → Codmetric Cybersecurity Internship
-2025 → Python Security Toolkit Built
-2025 → 10+ Cybersecurity Certifications
-2026 → Besant Technologies Python Full-Stack ← NOW🔥
-2026 → NexCart Pro E-Commerce Platform Built
-2026 → BE Graduation (Expected Nov 2026)
+2023 → Network Technician Volunteer (campus IT begins)
+2024 → 2.5+ years of hands-on desktop & LAN support
+2025 → Network & IT Intern @ Grand Technology
+2025 → Ethical Hacking certification (NPTEL, IIT KGP)
+2026 → CCNA Training @ Besant Technologies
+2026 → Linux Administration Training (RHEL)
+2026 → AWS Cloud Practitioner Training ← NOW 🔄
+2026 → BE Graduation (Expected May 2026)
+Next  → DevOps Engineering 🚀
 ```
-
+ 
 ---
-
+ 
 ## 📫 Connect With Me
-
+ 
 <div align="center">
-
 | Platform | Details |
 |----------|---------|
-| 📧 **Email** | issacarunjesus@gmail.com |
+| 📧 **Email** | issacarun.v@gmail.com |
 | 📱 **Phone** | +91 9361280684 |
 | 💼 **LinkedIn** | [issac-arun-ba5071295](https://linkedin.com/in/issac-arun-ba5071295) |
 | 📄 **Resume** | [View on Google Drive](https://drive.google.com/drive/folders/1FYAY76yogsdKl1ygYxGzXXwZmXR1dLAA?usp=sharing) |
 | 📍 **Location** | Tuticorin / Chennai, Tamil Nadu |
-| ✈️ **Open To** | Relocate Anywhere |
-
+| ✈️ **Open To** | Relocate Anywhere | 24x7 Support Ready |
+| 🟢 **Status** | Immediate Joiner |
+ 
 </div>
-
 ---
-
+ 
 <div align="center">
-
 ### 💬 What Drives Me
-
-> *"I don't just learn security — I build secure things.*
-> *I don't just write code — I write solutions.*
-> *Network Engineer by training.*
-> *Developer by passion.*
-> *Cybersecurity professional by purpose."*
-
+ 
+> *"First-level support is where I learn the system fastest —*
+> *every ticket, every fault, every fix builds the foundation*
+> *for the cloud and DevOps engineer I'm becoming."*
+ 
 ---
-
-**Built with 💜 Python | Secured with 🛡️ | Powered by ☕**
-
+ 
+**Networking Trained 🌐 | Linux Administered 🐧 | Cloud Rising ☁️**
+ 
 ⭐ **If my projects helped you — please give them a star!**
-
+ 
 </div>
+ 
